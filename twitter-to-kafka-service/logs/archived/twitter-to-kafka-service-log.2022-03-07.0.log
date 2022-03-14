@@ -1,0 +1,42 @@
+2022-03-07 00:08:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on alberto-desktop with PID 77091 (/home/alberto/Documentos/Event-driven/microservices-demo/twitter-to-kafka-service/target/classes started by alberto in /home/alberto/Documentos/Event-driven/microservices-demo)
+2022-03-07 00:08:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-03-07 00:08:37 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.51 seconds (JVM running for 2.32)
+2022-03-07 00:08:37 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-03-07 00:08:37 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2022-03-07 00:08:37 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2022-03-07 00:08:37 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-03-07 00:08:37 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-03-07 00:08:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2022-03-07 00:08:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2022-03-07 00:08:40 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @machine_ml: RT @OpenDataForAll: FPF white paper, The Spectrum of AI: Companion to the FPF AI Infographic.
+#DataScience #MachineLearning…
+2022-03-07 00:08:42 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @aptlearn_io: Software Engineer- C++ C# Java, Python, JavaScript
+
+Web Dev: HTML, CSS, JavaScript, Node.js
+
+Game Dev: Unity, Unreal, Java…
+2022-03-07 00:08:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @machine_ml: RT @OpenDataForAll: FPF white paper, The Spectrum of AI: Companion to the FPF AI Infographic.
+#DataScience #MachineLearning…
+2022-03-07 00:08:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @azizqamar7: Did you know when to use the "do-while" loop in Java?
+When you want your statement to be executed at least once no matter w…
+2022-03-07 00:08:50 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @redkontra: Bize kötülük yapmak için derinliklerine çekmeyen denizin içinde oradan oraya sürükleniyoruz.
+
+Kafka https://t.co/U2x7vdpURl
+2022-03-07 00:08:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text java silverあたりを、取っていれば、
+未経験でも、開発案件で、経験積める案件に入れると思うのだが。
+そういう意味で資格も意味があると思う。
+就職や転職は、資格以外にも年齢という重要な数値があるが...
+2022-03-07 00:09:03 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @PeterGontha: Java jazz Festival is Happening again. The Government has supported opening of events. may 27-28-29 2022
+Artist line up is…
+2022-03-07 00:09:10 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：6位❗(ゲーミングPCデバイス 人気・おすすめランキング)
+
+「Gaming MM300 Gaming Mouse Mat - Extended CH-9000108-WW」
+メーカ:Corsair
+
+価格:¥5,652✨
+🔥売り切れ間近🔥(12:09)
+
+https://t.co/isKfOs3Zec
+2022-03-07 00:09:23 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @OpenDataForAll: FPF white paper, The Spectrum of AI: Companion to the FPF AI Infographic.
+#DataScience #MachineLearning  #Analytics #AI…
+2022-03-07 00:09:27 [SpringContextShutdownHook] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Closing twitter stream!

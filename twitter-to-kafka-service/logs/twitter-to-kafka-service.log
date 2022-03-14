@@ -1,0 +1,981 @@
+2022-03-13 18:39:00 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on alberto-desktop with PID 268043 (/home/alberto/Documentos/Event-driven/microservices-demo/twitter-to-kafka-service/target/classes started by alberto in /home/alberto/Documentos/Event-driven/microservices-demo)
+2022-03-13 18:39:00 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-03-13 18:39:01 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.56 seconds (JVM running for 2.294)
+2022-03-13 18:39:01 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-03-13 18:39:01 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2022-03-13 18:39:01 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2022-03-13 18:39:01 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-03-13 18:39:01 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-03-13 18:39:07 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2022-03-13 18:39:07 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2022-03-13 18:39:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング:44位❗(今週の新着)
+
+「THERMOS 取っ手のとれるフライパン 5点セット ガス火専用 BTR KSC-5A-BTR」
+メーカ:サーモス
+
+価格:¥7,678✨
+🔥売り切れ間近🔥(06:39)
+
+https://t.co/uqjNknBj3W
+2022-03-13 18:39:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：16位❗ (ゲーミングPCデバイス 人気・おすすめランキング)
+
+「27型 曲面型 ゲーミングディスプレイ WQHD（2560×1440） VA 165Hz 1ms（MPRT） Optix-MAG272CQR」
+メーカ:MSI
+
+価格:¥42,800(06:39)
+
+https://t.co/aIckPmH9op
+2022-03-13 18:39:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ve franz kafka bir gece gözlerini açtığında kendisini bizim öğrenci evinde bulmuş.. https://t.co/Ae0ggluT4T
+2022-03-13 18:39:10 [SpringContextShutdownHook] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Closing twitter stream!
+2022-03-13 19:07:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on alberto-desktop with PID 7673 (/home/alberto/Documentos/Event-driven/microservices-demo/twitter-to-kafka-service/target/classes started by alberto in /home/alberto/Documentos/Event-driven/microservices-demo)
+2022-03-13 19:07:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-03-13 19:07:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.275 seconds (JVM running for 2.32)
+2022-03-13 19:07:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-03-13 19:07:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2022-03-13 19:07:05 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2022-03-13 19:07:05 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-03-13 19:07:05 [main] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-03-13 19:07:07 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2022-03-13 19:07:07 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2022-03-13 19:07:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text com C#?
+2022-03-13 19:07:12 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @Saturndipper Ok, support by java kuli And sponsored by kukubima 👍🏼 https://t.co/UUgqwPxU0E
+2022-03-13 19:07:19 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @eljunama: Hola buenas, vengo a comentar la malísima experiencia que acabo de tener con Instant Gaming: 
+Anoche compré un código de Mine…
+2022-03-13 19:07:20 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @errr123456789: spo ju shkon java pa fol per lesh qetu
+2022-03-13 19:07:41 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @realjohn_colour: Cw blood.
+Indonesian fighters (dead?) at Driyorejo, East Java in August 1946 during Operation Quantico.
+
+Photographed…
+2022-03-13 19:07:41 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @realjohn_colour: Cw blood.
+Indonesian fighters (dead?) at Driyorejo, East Java in August 1946 during Operation Quantico.
+
+Photographed…
+2022-03-13 19:07:42 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @bglendenning Brings to mind Kafka’s The Metamorphosis
+2022-03-13 19:07:43 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @cilwkthorin java noluy
+2022-03-13 19:07:45 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @edebiyatbiIgisi: Hiç evlenmemiş ve çocuğu olmayan Franz Kafka, Berlin’de bir sokakta dolaşmaktadır. Ağlayan bir kız çocuğuna rastlar. Ç…
+2022-03-13 19:07:45 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @realjohn_colour: Cw blood.
+Indonesian fighters (dead?) at Driyorejo, East Java in August 1946 during Operation Quantico.
+
+Photographed…
+2022-03-13 19:07:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text “Palto giymeye üşenirken bu koca dünyayı sırtımda nasıl taşırım ben?”
+
+Franz Kafka
+2022-03-13 19:07:52 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Franz Kafka .. 
+
+ #yirmialtı #Okullar Sayın Valim  
+
+ #iboshow #Yalan 
+Cübbeli Özgür Ateizim Patlaması Demirtaş Kıraç…
+2022-03-13 19:07:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:08:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text I thought communication between micro services was mainly done using tools like Kafka  or pub/sub in general
+2022-03-13 19:08:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @edebiyatbiIgisi: Hiç evlenmemiş ve çocuğu olmayan Franz Kafka, Berlin’de bir sokakta dolaşmaktadır. Ağlayan bir kız çocuğuna rastlar. Ç…
+2022-03-13 19:08:10 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Twet Bu kadar .. 
+
+ #yirmialtı #Okullar 
+
+ #iboshow Özgür Demirtaş Kıraç içki 
+Franz Kafka Cübbeli İsmi Nisa https://t…
+2022-03-13 19:08:12 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @kucukprenst: Franz Kafka diyor ki: “Kirli bir camdan bakıp herkesi ve her şeyi kirli sanıyorsunuz.”
+2022-03-13 19:08:22 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+
+#Java
+2022-03-13 19:08:23 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @leslarmetaverse: Good morning from Magelang, Central Java 
+
+I want to congratulate the launch of Leslar Metaverse, I hope that the Lesl…
+2022-03-13 19:08:28 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @BisnetoDev você usa Java em praticamente todos os lugares
+
+você usa JS apenas no navegador (fora do navegador é uma morte horrível que não desejo ao meu pior inimigo)
+2022-03-13 19:08:28 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @edebiyatbiIgisi: Hiç evlenmemiş ve çocuğu olmayan Franz Kafka, Berlin’de bir sokakta dolaşmaktadır. Ağlayan bir kız çocuğuna rastlar. Ç…
+2022-03-13 19:08:32 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text My sister has a Java mc account and she let me play murder mystery on hypixel on her account. I was just shifting the entire time and slowly making my way around the map. At one point, i made a bunch of shifting friends and we went to hide then we were immediately all stabbed
+2022-03-13 19:08:41 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lmao in this Java Multithreading class they are explaining the difference between concurrency and parallelism using a juggler from a circus. The juggler is the machine and the balls he juggles as processes.
+2022-03-13 19:08:44 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text めんどくさ！
+2022-03-13 19:08:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @PadmashreeJha: Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get th…
+2022-03-13 19:08:51 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @projeksin: “uyudum, uyandım, uyudum, uyandım; kepaze bir yaşam.”
+
+• günlükler | franz kafka
+2022-03-13 19:08:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:08:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text . #Kafka
+Camus sobre Kafka: nunca se asombra de que nada lo asombre https://t.co/sKntTqwszF a través de @SomosHumanidad
+2022-03-13 19:09:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング:6位❗ (今週の新着)
+
+「ジョージア　ブラック 185g×60本 」
+メーカ:
+
+価格:¥7,440(07:09)
+
+https://t.co/64EkqGZszE
+2022-03-13 19:09:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：6位❗(グラフィックボード)
+
+「GeForce RTX 3070 Ti ERAZOR GD3070T-8GEREZ」
+メーカ:ELSA
+
+価格:¥140,890✨
+🔥売り切れ間近🔥(07:09)
+
+https://t.co/XkiCfVDpJl
+2022-03-13 19:09:15 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @JamesSjaalman (Java script uitzetten, dan kun je het gewoon lezen, je hebt het niet van mij :-)
+2022-03-13 19:09:19 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @salttalinti: “Söyleyecek çok şey vardı ama söylememeye karar verdim.”
+
+Franz Kafka
+2022-03-13 19:09:21 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @edinei_dev: Vamos aprender microservices com .NET?
+
+https://t.co/pMqad0zp3C
+
+#twitch #twitchaffiliate #Microservices #dotnet #AspDotnet
+2022-03-13 19:09:21 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @neiesc: #twitch #twitchaffiliate #Microservices #dotnet #AspDotnet https://t.co/lEv2585J5X
+2022-03-13 19:09:21 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @neiesc: #twitch #twitchaffiliate #Microservices #dotnet #AspDotnet https://t.co/2aIVX8AxyO
+2022-03-13 19:09:22 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @htmx_org: to answer my own question, the best solution Ifound for java 17 hot swapping is the @Jetbrains Runtime (jbr) fork of OpenJDK…
+2022-03-13 19:09:24 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @briceculturier La stratégie n’était pas son fort:
+L’Allemagne se réarme, l’Europe a des velléités de puissance et le TNP est mort, à chacun sa bombinette! Le monde danse au son du canon et de la java des bombes atomiques comme dirait mon oncle, un joyeux….
+2022-03-13 19:09:28 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @DiederikSmit: In de Bogortuin op het Java-eiland in Amsterdam staat een vlag voor alle Nederlanders die overleden zijn aan het coronavi…
+2022-03-13 19:09:33 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ClaasGefroi: Kafka, aber in echt: In Russland wird man verhaftet, wenn man ein leeres Blatt Papier hochhält.
+2022-03-13 19:09:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @Emery70740490 @edebiyatbiIgisi Kafka gezgin bebek
+2022-03-13 19:09:49 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Twet Bu kadar .. 
+
+ #yirmialtı #Okullar 
+
+ #iboshow Özgür Demirtaş Kıraç içki 
+Franz Kafka Cübbeli İsmi Nisa https://t…
+2022-03-13 19:09:51 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text pov: you're so smooth brain that u cant even get downloaded minecraft mods to work 🙃
+i think my computer doesnt have java (?) but even after downloading java it doesnt work so idk i give up https://t.co/FnoFMH8tXb
+2022-03-13 19:09:56 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text #FEATURED #COURSES
+
+#Java #Programming Masterclass for #Software #Developers
+
+Learn Java In This #Course And Become a #Computer #Programmer
+Obtain valuable #Core Java Skills And Java #Certification
+https://t.co/qw5VM412Mp
+#online #100daysofcode #coding #womenwhocode #codenewbies https://t.co/T3FVbzTGGi
+2022-03-13 19:09:58 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @kitappencere: “Her düşlediğini yapamıyor insan, her düş çiçek açmıyor.”
+
+Franz Kafka
+2022-03-13 19:10:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @byLilyV: #FEATURED #COURSES
+
+#Java #Programming Masterclass for #Software #Developers
+
+Learn Java In This #Course And Become a #Compute…
+2022-03-13 19:10:01 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Franz Kafka .. 
+
+ #yirmialtı #Okullar Sayın Valim  
+
+ #iboshow #Yalan 
+Cübbeli Özgür Ateizim Patlaması Demirtaş Kıraç…
+2022-03-13 19:10:01 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @byLilyV: #FEATURED #COURSES
+
+#Java #Programming Masterclass for #Software #Developers
+
+Learn Java In This #Course And Become a #Compute…
+2022-03-13 19:10:05 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @byLilyV: #FEATURED #COURSES
+
+#Java #Programming Masterclass for #Software #Developers
+
+Learn Java In This #Course And Become a #Compute…
+2022-03-13 19:10:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ランキング:14位 (キッチン、日用品、文具)
+
+今だけ半額以下 マスク 不織布 3D立体 カラー レディース 30枚 血色マスク 4層構造 おし......(07:10)
+
+https://t.co/RS3K23Gj1F
+2022-03-13 19:10:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Build an Android App in Java 
+Budget (30-250) USD
+Name: cclark19
+Country: United States
+Client : https://t.co/WNDforornj
+Project Link: https://t.co/BqXMwoe7W1
+https://t.co/EwQetDzLqh #HATINC #Freelance #freelancer #business #programming
+2022-03-13 19:10:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ibukunoluwanap: Did you know the main use of these programming languages?
+
+#web3 #100DaysOfCode #Python #Java #Javascript #MachineLearn…
+2022-03-13 19:10:09 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Confluent/Kafka Architect https://t.co/EOVJf8hT60
+2022-03-13 19:10:10 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @tesbete0uqu0i si c’est code en java script c’est plutôt simple enfaite il faut envoyer beaucoup de requêtes au serveur et comme le java script c’est assez limité bah le serv du côté client va « crash » et en te reconnectant y’a des chances que tu puisse accéder au site
+2022-03-13 19:10:11 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:10:15 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @theapache64: A custom modifier to highlight recomposition 💡♻️
+
+Thanks to @ColtonIdle! You're a Compose angel 👼🏻 Always comes up with go…
+2022-03-13 19:10:16 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ibukunoluwanap: Did you know the main use of these programming languages?
+
+#web3 #100DaysOfCode #Python #Java #Javascript #MachineLearn…
+2022-03-13 19:10:17 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @byLilyV: #FEATURED #COURSES
+
+#Java #Programming Masterclass for #Software #Developers
+
+Learn Java In This #Course And Become a #Compute…
+2022-03-13 19:10:18 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ibukunoluwanap: Did you know the main use of these programming languages?
+
+#web3 #100DaysOfCode #Python #Java #Javascript #MachineLearn…
+2022-03-13 19:10:27 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Franz Kafka .. 
+
+ #yirmialtı #Okullar Sayın Valim  
+
+ #iboshow #Yalan 
+Cübbeli Özgür Ateizim Patlaması Demirtaş Kıraç…
+2022-03-13 19:10:33 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Do you have assignments bothering you!
+Excel in:
+#Computerscience
+#Finance
+#MsExcel
+#Computer
+#Java
+#Maths
+#Assignmenthelp
+#GeorgetownUniversity
+#Kleber
+#Rutgers
+KINDLY DM https://t.co/MsRi4KJo3l
+2022-03-13 19:10:39 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @1129_ali: Build an Android App in Java 
+Budget (30-250) USD
+Name: cclark19
+Country: United States
+Client : https://t.co/WNDforornj
+Proj…
+2022-03-13 19:10:45 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:10:47 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Mrperfectessays: Do you have assignments bothering you!
+Excel in:
+#Computerscience
+#Finance
+#MsExcel
+#Computer
+#Java
+#Maths
+#Assignment…
+2022-03-13 19:10:55 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ibukunoluwanap: Did you know the main use of these programming languages?
+
+#web3 #100DaysOfCode #Python #Java #Javascript #MachineLearn…
+2022-03-13 19:11:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ランキング:3位 「美容家電・健康家電」 (07:11)
+
+IZF-V951-H
+
+価格:-🔥
+
+https://t.co/QwIn8358ih
+2022-03-13 19:11:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @jedisct1: Quelqu’un d’intéressé pour prendre ma fille en stage de Juin à Septembre sur Paris ? (Elle s’apprête à signer pour faire du J…
+2022-03-13 19:11:10 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text MODの導入試みてるがJAVAの導入でつまずいている
+2022-03-13 19:11:15 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Robertioria: Yt https://t.co/P1xFFr4TC1  
+fb https://t.co/zmCHstSgBx
+Web 
+https://t.co/HLhxyTqh1y
+#java #epsxe #psxshare #PS4live #xbox…
+2022-03-13 19:11:28 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text I hate when I find myself drinking at Java House
+2022-03-13 19:11:34 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Twet Bu kadar .. 
+
+ #yirmialtı #Okullar 
+
+ #iboshow Özgür Demirtaş Kıraç içki 
+Franz Kafka Cübbeli İsmi Nisa https://t…
+2022-03-13 19:11:38 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:11:48 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text el otro día me puse borcegos y con kafka éramos estos https://t.co/J2FkxVqmaX
+2022-03-13 19:11:53 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @CatherineAdenle: Know more🎓- Why #DataScience Matters and How It Powers #Business in 2022.
+https://t.co/tA9XHwJ9SQ 
+#MachineLearning #r…
+2022-03-13 19:11:56 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @CatherineAdenle: Know more🎓- Why #DataScience Matters and How It Powers #Business in 2022.
+https://t.co/tA9XHwJ9SQ 
+#MachineLearning #r…
+2022-03-13 19:12:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Kafka 🖤
+2022-03-13 19:12:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング:7位❗ (今週の新着)
+
+「ジョージア　ブラック 185g×90本 」
+メーカ:
+
+価格:¥11,160(07:12)
+
+https://t.co/BG0MbHTVtH
+2022-03-13 19:12:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：7位❗(グラフィックボード)
+
+「グラフィックスカード Radeon RX 6700 XT MECH 2X 12G RadeonRX6700XTMECH2X12G」
+メーカ:MSI
+
+価格:¥98,041✨
+🔥売り切れ間近🔥(07:12)
+
+https://t.co/Hi0CNR4Y5Y
+2022-03-13 19:12:11 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @edebiyatbiIgisi: Hiç evlenmemiş ve çocuğu olmayan Franz Kafka, Berlin’de bir sokakta dolaşmaktadır. Ağlayan bir kız çocuğuna rastlar. Ç…
+2022-03-13 19:12:12 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 金を稼げる。かつ工夫次第で自由も得られる。だからプログラマーにあこがれるんだよね。
+
+#java #転職 #エンジニア
+https://t.co/1BMBrEKkUp
+2022-03-13 19:12:21 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @CyberSecAM: مقالات برمجية لمحبي لغة #JAVA
+
+🔸نبدء في اللغة جافا و Syntax تبعها
+https://t.co/pjI9ksesmt
+
+🔸أنواع المتغيرات(variable) في جا…
+2022-03-13 19:12:27 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text You are the knife I turn inside myself; that is love. That, my dear, is love.
+
+Franz Kafka, Letters to Milena
+2022-03-13 19:12:32 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Jimmy17088546: configuroweb: No. 2006 programming meme #programmingjoke #code #coding #javascript #python #datascience #programming #pr…
+2022-03-13 19:12:35 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Franz Kafka .. 
+
+ #yirmialtı #Okullar Sayın Valim  
+
+ #iboshow #Yalan 
+Cübbeli Özgür Ateizim Patlaması Demirtaş Kıraç…
+2022-03-13 19:12:35 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @marcioQmaciel Então você percebe que não tem como comparar Java a JavaScript? 😅
+Vou fazer meu projeto em Java ou em JavaScript? Depende. Do que se trata o projeto? Qual a finalidade? Java tem tudo o que você precisa? E JavaScript? É tudo questão de contexto 😅
+2022-03-13 19:12:41 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @Berentrice Poutine de K.Dick à Kafka en passant par Gogol https://t.co/ZmMEZWuJgD
+2022-03-13 19:12:49 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @SerdarAtacn: Franz Kafka'nın Fransız olduğunu sanan bir kitle bile mevcut iken, çok da şey etmemek lazım aslında...
+#GeceyeNotum https:…
+2022-03-13 19:12:49 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ramsatt: LinkedIn CSS Assessment - Solutions
+#angular #html #javascript #css #programming #java #python #reactjs #webdevelopment #nodej…
+2022-03-13 19:12:57 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Weekend #Travelcast is a Go!  <3  #Livestream <3 On the Doghouse! Chat Interaction! https://t.co/iHvWcJ70wV #Minecraft Java 1.18.1 Unmodded Survival #Twitch #Family Thank You @Preocts  @Twitch  @Minecraft
+2022-03-13 19:12:58 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Lsvekis: Car Racer JavaScript Game Exercise Vanilla JavaScript - https://t.co/YcW2UCmPlA how to create a custom JavaScript Car racer ga…
+2022-03-13 19:13:11 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Nasıl ?
+2022-03-13 19:13:17 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Kafkiano,la verdá
+2022-03-13 19:13:17 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @vehisler: “Söyleyecek çok şey vardı ama söylememeye karar verdim.”
+
+Franz Kafka
+2022-03-13 19:13:25 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Potresti perdere ciò che anima alla fine l'amore tornerà in  un modo diverso.
+Sorprendente Kafka.
+2022-03-13 19:13:27 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @binkitapaIinti: “Palto giymeye üşenirken bu koca dünyayı sırtımda nasıl taşırım ben?”
+
+Franz Kafka
+2022-03-13 19:13:31 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Dostoyevski kurumlar içinde nevroza tutulmuş bir karakter inşa etmiş bu romanda.
+
+İlk bölümden itibaren bir Kafka romanı okuyor izlenimine kapılırız. Oysa kafka henüz doğmamıştır.
+Dostoyevski'nin, Kafka doğmadan bir Kafka romanı yazmış olduğunu söyleyebiliriz.
+2022-03-13 19:13:31 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Software Engineer Java, Python, JavaScript, Go, SQL, RDBMS, React U.S in United States: engineer https://t.co/JQykxfxamw
+2022-03-13 19:13:33 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @EliffNisa_: "Bir noktadan sonra, geri dönüş yok! İşte tam o noktadayız."☘
+                            Franz Kafka
+2022-03-13 19:13:42 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @21sSchizoidMan: ..."Postideo sam se 
+kada sam shvatio 
+da je život 
+kostimirana zabava, 
+a ja sam se pojavio 
+sa svojim 
+pravim licem!"…
+2022-03-13 19:13:45 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @edebiyatbiIgisi: Hiç evlenmemiş ve çocuğu olmayan Franz Kafka, Berlin’de bir sokakta dolaşmaktadır. Ağlayan bir kız çocuğuna rastlar. Ç…
+2022-03-13 19:13:48 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @fuedicho: "Me avergoncé de mí mismo cuando me di cuenta de que la vida era una fiesta de disfraces; ¡y yo asistí con mi rostro real!"
+F…
+2022-03-13 19:14:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Dm us for quality case study at a fair cost.
+Use a professional writing service in:
+#Java
+#Codingprojects
+#Biology
+#Proposals
+#Programming
+#Thesisdue
+#Essaypay
+#ArizonaStateUniversity
+#Memphis
+#BodyHeat
+KINDLY DM https://t.co/Gt2EIfiVMm
+2022-03-13 19:14:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @mytrashcode: No. 1972 programming meme #programmingjoke #code #coding #javascript #python #datascience #programming #programmer #joke #…
+2022-03-13 19:14:14 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:14:17 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Franz Kafka .. 
+
+ #yirmialtı #Okullar Sayın Valim  
+
+ #iboshow #Yalan 
+Cübbeli Özgür Ateizim Patlaması Demirtaş Kıraç…
+2022-03-13 19:14:19 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Mrperfectessays: Dm us for quality case study at a fair cost.
+Use a professional writing service in:
+#Java
+#Codingprojects
+#Biology
+#Pr…
+2022-03-13 19:14:24 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Serio, não aguento mais ver gente falando sobre python, java e sei lá mais o que de programação na minha TL 🤬
+2022-03-13 19:14:28 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @realjohn_colour: Cw blood.
+Indonesian fighters (dead?) at Driyorejo, East Java in August 1946 during Operation Quantico.
+
+Photographed…
+2022-03-13 19:14:30 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @x86girl Java é lento. #sopranaoperderocostume
+2022-03-13 19:14:30 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Lasanha8_: Serio, não aguento mais ver gente falando sobre python, java e sei lá mais o que de programação na minha TL 🤬
+2022-03-13 19:14:30 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Lasanha8_: Serio, não aguento mais ver gente falando sobre python, java e sei lá mais o que de programação na minha TL 🤬
+2022-03-13 19:14:33 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ん？20年前から主流では？
+Javaってこれそのものだし。
+最近はこの逆に行って、結局戻ってきたのでは？
+2022-03-13 19:14:36 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Check out my latest article: "A book must be the axe for the frozen sea inside us."​ - Franz Kafka  https://t.co/4FllxaWI0w via @LinkedIn
+2022-03-13 19:14:50 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @dxzone: JaRec - Java Radio Remote Control Software https://t.co/dPhuUDC4mQ
+2022-03-13 19:14:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Dm  for quality help
+#java
+#cpp
+#Accounting
+#Math
+#Statistics
+#physics
+#finance
+ #chemistry
+#Algebra
+#BHCK
+#KCST #HU #AOU
+#ACK
+#ACM
+#AUM
+#AUK
+#MSM
+#kuwait
+#Homework
+#Assignment
+#researchpaper 
+WhatsApp +1(786)706-1443 https://t.co/e95QsXbNrb
+2022-03-13 19:14:57 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @projeksin: “uyudum, uyandım, uyudum, uyandım; kepaze bir yaşam.”
+
+• günlükler | franz kafka
+2022-03-13 19:15:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング:8位❗ (今週の新着)
+
+「リアルゴールド ウルトラチャージ レモン PET 490ml×24本 」
+メーカ:
+
+価格:¥3,624(07:15)
+
+https://t.co/1cJ2MguQr2
+2022-03-13 19:15:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ランキング:15位 (キッチン、日用品、文具)
+
+【めざましテレビ紹介★緊急半額クーポン】血色マスク 立体マスク 4サイズ 両面同色 5枚ず......(07:15)
+
+https://t.co/jmn1Ky4e3R
+2022-03-13 19:15:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：8位❗(グラフィックボード)
+
+「グラフィックボード PULSE Radeon RX 6700 XT 12GB SAP-PULSERX6700XT12GB/ 11306-02-20G」
+メーカ:SAPPHIRE
+
+価格:¥95,727✨
+🔥売り切れ間近🔥(07:15)
+
+https://t.co/FoIhEacFrc
+2022-03-13 19:15:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Her gün, her yerde Josef K'lar görüp, tekrar tekrar anıyorum. 
+
+Gilles Deleuze ve Felix Guattari'nin tabiriyle bir minör edebiyat üreticisi Franz Kafka. https://t.co/MRfq09GFRN
+2022-03-13 19:15:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Programmazione Java: 1 https://t.co/i2ZxjgraQH #shop #programmazione via @oceweb
+2022-03-13 19:15:11 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Dm  for quality help
+#java
+#cpp
+#Accounting
+#Math
+#Statistics
+#physics
+#finance
+ #chemistry
+#Algebra
+#BHCK
+#KCST #HU #…
+2022-03-13 19:15:13 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text マイクラJava版練習するから付き合ってくれる人！
+2022-03-13 19:15:15 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @realjohn_colour: Cw blood.
+Indonesian fighters (dead?) at Driyorejo, East Java in August 1946 during Operation Quantico.
+
+Photographed…
+2022-03-13 19:15:20 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Dm  for quality help
+#java
+#cpp
+#Accounting
+#Math
+#Statistics
+#physics
+#finance
+ #chemistry
+#Algebra
+#BHCK
+#KCST #HU #…
+2022-03-13 19:15:21 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @sophissnauta: CONHEÇO PYTHON, TÔ CURIOSA E QUERO APRENDER JAVA, O QUE EU FAÇO?
+
+procuro roadmaps, projetos, textos e vídeos sobre
+
+cc:…
+2022-03-13 19:15:21 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Multiple Contract jobs!!! TEEMA is a VOR for the Ontario Government and we have several open contract opportunities for Developers, Architects, Data Analytics & Project Managers. kbarr@teemagroup.com #Torontojobs #contractjob #ontariojobs #Java #azurestack #OANDA #consultingcaree
+2022-03-13 19:15:33 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Programador Júnior Java - Lisboa, Lisboa https://t.co/ZhvyFAcIgH
+2022-03-13 19:15:35 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Our writers are competent and reliable 
+#javascript
+#CSS
+#Java
+#CollegeFootball
+#Coursework
+#Science journals
+#Onlineclasses
+#100DaysOfCode 
+#DEVCommunity 
+#CodeNewbie 
+#Flutter
+#DataScience
+#MachineLearning
+#React
+#CyberSecurity 
+#nursing
+#essaypay
+WhatsApp +1(786)706-1443 https://t.co/8CnnHeYeDu
+2022-03-13 19:15:41 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Our writers are competent and reliable 
+#javascript
+#CSS
+#Java
+#CollegeFootball
+#Coursework
+#Science journals
+#Onlinec…
+2022-03-13 19:15:43 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Our writers are competent and reliable 
+#javascript
+#CSS
+#Java
+#CollegeFootball
+#Coursework
+#Science journals
+#Onlinec…
+2022-03-13 19:15:50 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text おはようございます
+
+週の始まりです
+今週も頑張っていきましょう(^^)/
+
+昨日のマイクラライブは
+地図埋めながら熱かったw
+
+Javaワールド最終企画の準備進行中
+※大した企画ではありませんw
+
+#SaiCra https://t.co/8ej4fMyGJp
+2022-03-13 19:15:51 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Our writers are competent and reliable 
+#javascript
+#CSS
+#Java
+#CollegeFootball
+#Coursework
+#Science journals
+#Onlinec…
+2022-03-13 19:15:56 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Our writers are competent and reliable 
+#javascript
+#CSS
+#Java
+#CollegeFootball
+#Coursework
+#Science journals
+#Onlinec…
+2022-03-13 19:15:56 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Our writers are competent and reliable 
+#javascript
+#CSS
+#Java
+#CollegeFootball
+#Coursework
+#Science journals
+#Onlinec…
+2022-03-13 19:16:05 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Day 406 #100DaysOfCode #BlackTechTwitter #CodeNewbie #Python #Django #Java #PostgreSQL
+2022-03-13 19:16:09 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @kitap_penceresi: Aforizmalar, Franz Kafka https://t.co/FpdC9xNfoL
+2022-03-13 19:16:10 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ChikaOtisi: Day 406 #100DaysOfCode #BlackTechTwitter #CodeNewbie #Python #Django #Java #PostgreSQL
+2022-03-13 19:16:10 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Our writers are competent and reliable 
+#javascript
+#CSS
+#Java
+#CollegeFootball
+#Coursework
+#Science journals
+#Onlinec…
+2022-03-13 19:16:19 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Our writers are competent and reliable 
+#javascript
+#CSS
+#Java
+#CollegeFootball
+#Coursework
+#Science journals
+#Onlinec…
+2022-03-13 19:16:21 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ChikaOtisi: Day 406 #100DaysOfCode #BlackTechTwitter #CodeNewbie #Python #Django #Java #PostgreSQL
+2022-03-13 19:16:22 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:16:24 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text "Söyler misin, ben neden sevdiğim kimsenin hayatında bir halt olamıyorum?"
+|| Kafka Okur ||
+2022-03-13 19:16:24 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @realjohn_colour: Cw blood.
+Indonesian fighters (dead?) at Driyorejo, East Java in August 1946 during Operation Quantico.
+
+Photographed…
+2022-03-13 19:16:26 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 😇😈👇
+2022-03-13 19:16:35 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Dm  for quality help
+#java
+#cpp
+#Accounting
+#Math
+#Statistics
+#physics
+#finance
+ #chemistry
+#Algebra
+#BHCK
+#KCST #HU #AOU
+#ACK
+#ACM
+#AUM
+#AUK
+#MSM
+#kuwait
+#Homework
+#Assignment
+#researchpaper 
+
+https://t.co/NUa9hQDvFJ https://t.co/K0o49TcUMB
+2022-03-13 19:16:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ojnzy: LANGSUNG JOIN AJA DI GRUP TELEGRAM PALING  KOMPLIT
+
+UNTU INFO VIDEO INI SILAHKAN KLIK LINK 👉: https://t.co/uMEkSQMAOO
+🔞 INDO
+🔞 H…
+2022-03-13 19:16:39 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @blumisunoo: HELP RT!
+want to sell wts enhypen ina 🇮🇩
+
+💰 price in idr / rupiah inc.packing
+🏠 bogor, west java
+💗 https://t.co/52zHdDlUqG…
+2022-03-13 19:16:45 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Our writers are competent and reliable 
+#javascript
+#CSS
+#Java
+#CollegeFootball
+#Coursework
+#Science journals
+#Onlinec…
+2022-03-13 19:16:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text usa o C#
+2022-03-13 19:16:48 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @salttalinti: “Söyleyecek çok şey vardı ama söylememeye karar verdim.”
+
+Franz Kafka
+2022-03-13 19:16:51 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @JoshuaExpert: Dm  for quality help
+#java
+#cpp
+#Accounting
+#Math
+#Statistics
+#physics
+#finance
+ #chemistry
+#Algebra
+#BHCK
+#KCST #HU #AOU…
+2022-03-13 19:16:52 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @JoshuaExpert: Dm  for quality help
+#java
+#cpp
+#Accounting
+#Math
+#Statistics
+#physics
+#finance
+ #chemistry
+#Algebra
+#BHCK
+#KCST #HU #AOU…
+2022-03-13 19:16:53 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @DiederikSmit: In de Bogortuin op het Java-eiland in Amsterdam staat een vlag voor alle Nederlanders die overleden zijn aan het coronavi…
+2022-03-13 19:16:57 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @euruskade: ¿Qué temas se ven?
+• Lógica de programación
+• Front-end (HTML, CSS y JavaScript)
+• Java
+• Emprendimientos
+2022-03-13 19:16:57 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @fuedicho: "Me avergoncé de mí mismo cuando me di cuenta de que la vida era una fiesta de disfraces; ¡y yo asistí con mi rostro real!"
+F…
+2022-03-13 19:16:59 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ChikaOtisi: Day 406 #100DaysOfCode #BlackTechTwitter #CodeNewbie #Python #Django #Java #PostgreSQL
+2022-03-13 19:17:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @knowprogram: Data Science 🔭🧪❤️
+
+🛰️ Retweet to share information
+#DataScience #DataScientist #AI #Python3 #programming #Python #Java #ja…
+2022-03-13 19:17:02 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text THE METAMORPHOSIS BY FRANZ KAFKA - ANIMATED SUMMARY https://t.co/l06CaerEbj via @YouTube
+
+Gregor is #humanity
+2022-03-13 19:17:04 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @htmx_org: to answer my own question, the best solution Ifound for java 17 hot swapping is the @Jetbrains Runtime (jbr) fork of OpenJDK…
+2022-03-13 19:17:11 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @leslarmetaverse: Good morning from Magelang, Central Java 
+
+I want to congratulate the launch of Leslar Metaverse, I hope that the Lesl…
+2022-03-13 19:17:12 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text a metamorfose de kafka é uma copia de working for the knife da mitski
+2022-03-13 19:17:13 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text did you know on java, zombies will dropped baked potatoes if killed while on fire? Add it to the list of weird differences, lol https://t.co/CXQMznhkqe
+2022-03-13 19:17:26 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Ah canım pocitif ayrımcılık mı yaptın çeen. Kadınların da gözü yollarda kalmıştı sizin gibi kerestelerin yapacağı pozitif ayrımcılık için. Kendinizi ne kadar önemli sanıyorsunuz siz öyle.
+2022-03-13 19:17:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @BTCZFutureCoin: #BitcoinZ is in top 10-this week- you can vote daily for #BTCZ- here https://t.co/DPI6YKQ6HC
+#Python #BigData #Analytic…
+2022-03-13 19:17:44 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses
+#100DaysOfCode 
+#DEVCommunity 
+#CodeNewbie 
+#Flutter
+#DataScience
+#MachineLearning
+#React
+#CyberSecurity 
+#nursing
+Drake
+
+@academics_real4
+
+#UK #UAE #Kuwait #US https://t.co/iaTzgWaI2T
+2022-03-13 19:17:48 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ChikaOtisi: Day 406 #100DaysOfCode #BlackTechTwitter #CodeNewbie #Python #Django #Java #PostgreSQL
+2022-03-13 19:17:49 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:17:50 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:17:51 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ibxtoycat: did you know on java, zombies will dropped baked potatoes if killed while on fire? Add it to the list of weird differences,…
+2022-03-13 19:17:52 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:17:53 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Bu tarz söylemlerin artık bir yaptırımı olmalı
+2022-03-13 19:17:56 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:18:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Dfkm
+2022-03-13 19:18:03 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:18:06 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text HIRING: Digital Analytics Manager / Ventura, California - https://t.co/JcVRpCyWRv #AI #MachineLearning #DataJobs #Jobsearch #MLjobs #bigdata #DataScience #AIjobs #techjobs #digital #hiringnow #Engineer #Engineering #Java #JavaScript #Marketing #Python #SQL
+2022-03-13 19:18:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @killydesu: 第二回！！！！！！！
+抽選で当たった人にMinecraft Javaのアカウントプレゼントー
+参加条件はいいねするだけ（RTもほしい........)
+期限は２０２２年３月１５日２３時５９分まで！！！！！！！！！
+2022-03-13 19:18:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング:9位❗ (今週の新着)
+
+「リアルゴールド ウルトラチャージ レモン PET 490ml×48本 」
+メーカ:
+
+価格:¥7,248(07:18)
+
+https://t.co/1dxXKviBPl
+2022-03-13 19:18:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：9位❗(グラフィックボード)
+
+「RX6600 XT Phantom Gaming D 8G OC RX6600XT-PGD-8GO」
+メーカ:ASRock
+
+価格:¥85,800✨
+🔥売り切れ間近🔥(07:18)
+
+https://t.co/K0WtG5hvml
+2022-03-13 19:18:09 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:18:09 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ai_jobsNET: HIRING: Digital Analytics Manager / Ventura, California - https://t.co/JcVRpCyWRv #AI #MachineLearning #DataJobs #Jobsearch…
+2022-03-13 19:18:13 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Jimmy17088546: configuroweb: No. 1975 programming meme #programmingjoke #code #coding #javascript #python #datascience #programming #pr…
+2022-03-13 19:18:16 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @DiederikSmit: In de Bogortuin op het Java-eiland in Amsterdam staat een vlag voor alle Nederlanders die overleden zijn aan het coronavi…
+2022-03-13 19:18:18 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @Jimmy17088546: configuroweb: No. 1975 programming meme #programmingjoke #code #coding #javascript #python #datascience #programming #pr…
+2022-03-13 19:18:22 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @Wizarab10 @CHAfrica_Tech I'm interested sir Dickson, I have littlebackground knowledge in java, MySQL and html. Please select me
+2022-03-13 19:18:28 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @edebiyatbiIgisi: Hiç evlenmemiş ve çocuğu olmayan Franz Kafka, Berlin’de bir sokakta dolaşmaktadır. Ağlayan bir kız çocuğuna rastlar. Ç…
+2022-03-13 19:18:33 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:18:40 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:18:43 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:18:44 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text “Kirli bir camdan bakıp herkesi ve her şeyi kirli sanıyorsunuz.”
+                     Franz Kafka
+2022-03-13 19:18:45 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ai_jobsNET: HIRING: Digital Analytics Manager / Ventura, California - https://t.co/JcVRpCyWRv #AI #MachineLearning #DataJobs #Jobsearch…
+2022-03-13 19:18:47 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @nikamonina No me hicieron abandonar el hábito de la lectura, pero hasta pasados muchos años fui incapaz de leer a Kafka porque me lo impusieron con 12 o 13 y no entendía nada
+2022-03-13 19:18:55 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @Badgerisi @crocskat @Prowl8413 Hoglins also aren't able to fling their targets like they do in Java as reported in MCPE-74465 btw, but i'm sure that will be fixed eventually
+2022-03-13 19:19:05 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 📞📱🧑‍🏫 معلم برمجة 📩🖋 
+🪀 للتواصل واتساب : https://t.co/fSSSyf8lPd
+✅ جافا Java و فيجوال بيسك VB
+✅ سي بلس بلس ++C
+✅ سي شارب #C
+✅ بايثونPython
+✅ مشاريع تخرج Projects 
+✅ حل واجبات البرمجة بجامعات المملكة العربية السعودية
+🪀☎️ 00966563286279/00201126391974 https://t.co/FiyLEGYboE
+2022-03-13 19:19:06 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Twet Bu kadar .. 
+
+ #yirmialtı #Okullar 
+
+ #iboshow Özgür Demirtaş Kıraç içki 
+Franz Kafka Cübbeli İsmi Nisa https://t…
+2022-03-13 19:19:13 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text "It's the old joke. We hold the world fast and complain that it is holding us." Kafka in the fourth blue octavo notebook.
+2022-03-13 19:19:28 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @198579_ATA_KIZI: Twet Bu kadar .. 
+
+ #yirmialtı #Okullar 
+
+ #iboshow Özgür Demirtaş Kıraç içki 
+Franz Kafka Cübbeli İsmi Nisa https://t…
+2022-03-13 19:19:29 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @programmerjoke9: participating in the comments is my contribution.#100Daysofcode #javascript #programming #dev #linux #java #programmin…
+2022-03-13 19:19:29 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 今、アマゾン(amazon)でおすすめしたいゲームは...
+  
+✔️Minecraft Java Edition
+
+[2022/03/14 07:19]
+https://t.co/IBDO9RDWc3
+2022-03-13 19:19:35 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @AndresCristoB: 😇😈👇
+2022-03-13 19:19:41 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text incrível
+
+Java foi a primeira linguagem gerenciada que "deu certo"
+
+MS fez o .Net para rivalizar
+
+Hoje o .Net roda no web assembly e o Java ainda esperando o GC
+
+quem diria
+
+#bolhadev #soudev @sseraphini
+2022-03-13 19:19:45 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text #WASM Virtual Machine
+@hi_com_official 
+Unlike Ethereum’s EVM, hiP leverages a WASM based virtual machine to provide our community with a wider support of programming languages (C, C++, Java, Rust, etc.), and near native execution speed. https://t.co/onB6jzG0Vp
+2022-03-13 19:19:52 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @XXFastisXX: #WASM Virtual Machine
+@hi_com_official 
+Unlike Ethereum’s EVM, hiP leverages a WASM based virtual machine to provide our co…
+2022-03-13 19:19:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @fuedicho: "Me avergoncé de mí mismo cuando me di cuenta de que la vida era una fiesta de disfraces; ¡y yo asistí con mi rostro real!"
+F…
+2022-03-13 19:19:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ChikaOtisi: Day 406 #100DaysOfCode #BlackTechTwitter #CodeNewbie #Python #Django #Java #PostgreSQL
+2022-03-13 19:19:57 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @programmerjoke9: participating in the comments is my contribution.#100Daysofcode #javascript #programming #dev #linux #java #programmin…
+2022-03-13 19:19:58 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @pastaboxshawty: L’inégalé Journal de Kafka https://t.co/MZLFPjmNXn
+2022-03-13 19:19:59 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ojnzy: LANGSUNG JOIN AJA DI GRUP TELEGRAM PALING  KOMPLIT
+
+UNTU INFO VIDEO INI SILAHKAN KLIK LINK 👉: https://t.co/uMEkSQMAOO
+🔞 INDO
+🔞 H…
+2022-03-13 19:20:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @PadmashreeJha: Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get th…
+2022-03-13 19:20:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:20:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Java 18 のリリースまであと1週間ぐらいかな。
+
+"2022/03/22 General Availability"
+
+JDK 18 https://t.co/y5BElT0ivp
+2022-03-13 19:20:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ランキング:16位 (キッチン、日用品、文具)
+
+マスク 3D立体構造 不織布 30枚 血色マスク 不織布マスク 4層構造 立体構造 ホワイト 白 ......(07:20)
+
+https://t.co/2NAZRksePj
+2022-03-13 19:20:16 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @knowprogram: Data Science 🔭🧪❤️
+
+🛰️ Retweet to share information
+#DataScience #DataScientist #AI #Python3 #programming #Python #Java #ja…
+2022-03-13 19:20:26 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:20:27 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @academics_real4: Hire professionals to ace your assignments #javascript
+#CSS
+#Java
+#CodeRedForHumanity
+#Science journals
+#Onlineclasses…
+2022-03-13 19:20:31 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ChikaOtisi: Day 406 #100DaysOfCode #BlackTechTwitter #CodeNewbie #Python #Django #Java #PostgreSQL
+2022-03-13 19:20:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @ai_jobsNET: HIRING: Digital Analytics Manager / Ventura, California - https://t.co/JcVRpCyWRv #AI #MachineLearning #DataJobs #Jobsearch…
+2022-03-13 19:20:42 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @fuedicho: "Me avergoncé de mí mismo cuando me di cuenta de que la vida era una fiesta de disfraces; ¡y yo asistí con mi rostro real!"
+F…
+2022-03-13 19:20:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text *
+
+"Sevdiğin her şey muhtemelen kaybolacak, ama sonunda sevgi başka bir şekilde geri dönecek."
+
+İmza 
+Franz Kafka.
+2022-03-13 19:20:53 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text 一般提供になった。JAVAでのAWSのRDSフェイルオーバーが透過的になるのは喜ばしいことだ。
+
+アマゾン ウェブ サービスの MySQL 用の JDBC ドライバーで、より高速なデータベースフェイルオーバーを実現
+https://t.co/o6kNorUVSR
+2022-03-13 19:20:58 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @ibxtoycat I remember that it exists I just forgot about it since I don’t play Java so it was of no use to me
+2022-03-13 19:21:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @vehisler: “Söyleyecek çok şey vardı ama söylememeye karar verdim.”
+
+Franz Kafka
+2022-03-13 19:21:05 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ✨フリーランス案件情報✨
+
+言語: Java
+業務: SalesforceやAWSを使った保守開発
+単価: スキル見合い
+勤務地: フルリモート
+期間: 2月～
+稼働: 140−180
+就業時間: 9時or10時から8時間勤務
+
+【07:21:00 】
+2022-03-13 19:21:06 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text واجبات ومشاريع لكل من :
+بايثون
+#Java 
+#php
+#HTML 
+#Android 
+#Website 
+#cplusplus 
+#javascript 
+#Python 
+#مشاريع_تخرج
+#جامعة_الكويت #جامعة_الملك_سعود #جامعه_القصيم
+#جامعة_قطر 
+#جامعة_الأميرة_نورة 
+#جامعة_الجوف 
+#جامعة_الكويت
+ #مشاريع_تخرج
+2022-03-13 19:21:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング:10位❗ (今週の新着)
+
+「ファンタ ヨーグルラッシュ白桃＆黄桃　380ml×24本 」
+メーカ:
+
+価格:¥3,624(07:21)
+
+https://t.co/ovjNlguCaR
+2022-03-13 19:21:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ❗ランキング：10位❗(グラフィックボード)
+
+「RX6600 XT Challenger Pro 8G OC RX6600XT-CLP-8GO」
+メーカ:ASRock
+
+価格:¥76,470✨
+🔥売り切れ間近🔥(07:21)
+
+https://t.co/Q0BgSeFKcb
+2022-03-13 19:21:10 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @PeterRHutt @Oracle @ZelenskyyUa @Microsoft @SAP @FedorovMykhailo stopping access to Oracle / Java security patches, patches and tech support is the hammer
+2022-03-13 19:21:22 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @21sSchizoidMan: ..."Postideo sam se 
+kada sam shvatio 
+da je život 
+kostimirana zabava, 
+a ja sam se pojavio 
+sa svojim 
+pravim licem!"…
+2022-03-13 19:21:23 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text JavaのImageIO.writeでJPEGとビットマップで保存できなくて頭抱えてる
+エラーも出ず対応フォーマット表示したらちゃんと出てくるんだけどなぁ
+ちなAdoptOpenJDK 11.0.9 https://t.co/ktnBsfYxPy
+2022-03-13 19:21:28 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @edebiyatbiIgisi: Hiç evlenmemiş ve çocuğu olmayan Franz Kafka, Berlin’de bir sokakta dolaşmaktadır. Ağlayan bir kız çocuğuna rastlar. Ç…
+2022-03-13 19:21:34 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text https://t.co/olG6dfJKNW
+2022-03-13 19:21:41 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Vluchtelingenopvang op schip Java-eiland: "Ik dacht eerst dat het een gevangenisboot was" - AT5 https://t.co/ze0nk8vsZP https://t.co/wC75quDlAM
+2022-03-13 19:21:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text تطبيقات_اندرويد.
+#مشاريع_تخرج.
+#جامعة. 
+#برمجة #مبرمج,
+#واجبات.
+#جامعة_طيبة.
+#JAVA.
+#Csharp,
+#Android .
+#SQL.
+#PHP.
+#Flutter. 
+#javascript.
+#HTML
+#بحوث_طبية
+#بحث_علمي
+#رياضيات
+#جافا
+#فقه
+#الجامعة_السعودية_الالكترونية 
+#البزنس99
+2022-03-13 19:21:51 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @masoodi_samer: تطبيقات_اندرويد.
+#مشاريع_تخرج.
+#جامعة. 
+#برمجة #مبرمج,
+#واجبات.
+#جامعة_طيبة.
+#JAVA.
+#Csharp,
+#Android .
+#SQL.
+#PHP.
+#Flu…
+2022-03-13 19:21:52 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @franceculture: Non seulement il faut lire ses pièces de théâtre, dans la postérité ironique de Franz Kafka et de Karel Capek, mais auss…
+2022-03-13 19:21:56 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @_scootR Always wanted to get into it but never really did... I should really give it a try at some point- do you play on PC and on the Java Version?
+2022-03-13 19:22:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ランキング:4位 「美容家電・健康家電」 (07:22)
+
+EH-NA9G-N
+
+価格:-🔥
+
+https://t.co/06hqQNnud1
+2022-03-13 19:22:17 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text @storyteller_nft java java java..
+im from java n i love JAVA 😁😀
+2022-03-13 19:22:23 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text RT @culturaliteral1: Si encuentras a alguien que te hace sonreír, que te mira a menudo para ver si estás bien. Que cuida de ti y quiere lo…
+2022-03-13 19:22:24 [SpringContextShutdownHook] INFO  c.m.d.t.t.k.s.r.i.TwitterKafkaStreamRunner - Closing twitter stream!

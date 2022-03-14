@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.706 s <<< FAILURE! - in com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplicationTests
+contextLoad  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to execute CommandLineRunner
+Caused by: java.lang.IllegalStateException: Authentication credentials are missing. See http://twitter4j.org/en/configuration.html for details. See and register at http://apps.twitter.com/
+
